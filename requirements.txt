@@ -1,0 +1,21 @@
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.1.0
+scikit-image==0.22.0
+
+# Machine Learning / Deep Learning
+ultralytics==8.0.207
+
+# Data Processing & Export
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Utilities
+matplotlib==3.8.2
+tqdm==4.66.1
+pyyaml==6.0.1
+
+# Image Processing
+imageio==2.33.0
+scipy==1.11.4
